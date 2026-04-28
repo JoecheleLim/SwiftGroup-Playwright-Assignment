@@ -73,3 +73,10 @@ As permitted by the assessment instructions, AI assistance (Gemini) was utilised
 
 https://drive.google.com/file/d/1UVrg2ry3jsXm3Nm_dvXwqAYoNUyCVUgc/view?usp=sharing
 
+
+<img width="1585" height="993" alt="Screenshot 2026-04-28 202821" src="https://github.com/user-attachments/assets/041babb0-9fd6-4371-9fcb-64913b6dc552" />
+*Figure 1: Part 1*
+<img width="1585" height="993" alt="Screenshot 2026-04-28 202824" src="https://github.com/user-attachments/assets/9d6e32bb-71fc-4bd2-9da5-8efe2d306b38" />
+*Figure 2: Part 2*
+<img width="1585" height="993" alt="Screenshot 2026-04-28 202816" src="https://github.com/user-attachments/assets/06e37fb8-0cff-4bd2-92e1-bed66add65fc" />
+*Figure 3: Part 3*
