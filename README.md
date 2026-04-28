@@ -27,16 +27,16 @@ The automation suite is divided into three parts:
 ## ⚙️ Installation & Setup
   1. Clone the repository:
      
-    ```bash
-    git clone ttps://github.com/JoecheleLim/SwiftGroup-Playwright-Assignment.git
-    cd SwiftGroup-Playwright-Assignment
-    ```
+      ```bash
+      git clone ttps://github.com/JoecheleLim/SwiftGroup-Playwright-Assignment.git
+      cd SwiftGroup-Playwright-Assignment
+      ```
   
   2. Install dependencies:
   
-    ```bash
-    npm install
-    ```
+      ```bash
+      npm install
+      ```
   
   3. Install Playwright Browsers:
      
