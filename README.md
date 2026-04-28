@@ -16,12 +16,14 @@ The automation suite is divided into three parts:
 
 ## 📁 Project Structure
 ```plaintext
-├── pages/                 # Page Object Model classes
-├── tests/                 # Test specifications (Part 1, 2, and 3)
-├── fixtures/              # Custom Playwright fixtures
-├── credentials.ts         # Centralized test credentials (standard_user, etc.)
-├── playwright.config.ts   # Global configuration and base URL
-└── RATIONALIZATION.md     # AI usage documentation and prompts
+├── pages/                 ## Page Object Model classes (Encapsulates UI logic)
+├── tests/                 # Test specifications (Automated scenarios for Part 1, 2, and 3)
+├── fixtures/              # Custom Playwright fixtures (Handles setup and POM instantiation)
+├── credentials.ts         # Centralised test credentials (Stores usernames and passwords)
+├── playwright.config.ts   # Global configuration (Timeouts, browsers, and base URL)
+├── package-lock.json      # Dependency lockfile (Ensures exact versions for reproducibility)
+├── package.json           # Project manifest (Lists dependencies and run scripts)
+└── README.md              # Project documentation (Includes AI rationalisation and prompts)
 ```
 
 ## ⚙️ Installation & Setup
